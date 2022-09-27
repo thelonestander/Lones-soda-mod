@@ -388,5 +388,5 @@
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
     "fun": 40
-  },
+  }
 ]
