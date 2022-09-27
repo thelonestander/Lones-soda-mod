@@ -13,8 +13,8 @@
     "symbol": "~",
     "quench": 18,
     "healthy": -1,
-    "addiction_potential": 3,
-    "calories": 126,
+    "addiction_potential": 5,
+    "calories": 130,
     "description": "Coke with a cherry taste yum!.",
     "price": 95,
     "price_postapoc": 50,
@@ -37,10 +37,10 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 40,
     "healthy": -1,
-    "addiction_potential": 5,
-    "calories": 126,
+    "addiction_potential": 15,
+    "calories": 160,
     "description": "A special variant of coke that was made for the olympics!",
     "price": 95,
     "price_postapoc": 50,
@@ -49,7 +49,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 10
   },
   {
     "type": "COMESTIBLE",
@@ -63,10 +63,10 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 20,
     "healthy": -1,
     "addiction_potential": 5,
-    "calories": 126,
+    "calories": 120,
     "description": "Coke with a blast of lemon flavor!",
     "price": 95,
     "price_postapoc": 50,
@@ -75,7 +75,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 8
   },
   {
     "type": "COMESTIBLE",
@@ -89,7 +89,7 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 25,
     "healthy": -1,
     "addiction_potential": 5,
     "calories": 126,
@@ -115,10 +115,10 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 20,
     "healthy": -1,
     "addiction_potential": 5,
-    "calories": 126,
+    "calories": 130,
     "description": "Coke with a splash of lime!",
     "price": 95,
     "price_postapoc": 50,
@@ -127,7 +127,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 8
   },
   {
     "type": "COMESTIBLE",
@@ -141,7 +141,7 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 40,
     "healthy": -1,
     "addiction_potential": 5,
     "calories": 126,
@@ -153,7 +153,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 10
   },
   {
     "type": "COMESTIBLE",
@@ -167,10 +167,10 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 30,
     "healthy": -1,
     "addiction_potential": 5,
-    "calories": 126,
+    "calories": 140,
     "description": "Coke with a hint of orange and cream!",
     "price": 95,
     "price_postapoc": 50,
@@ -193,10 +193,10 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 35,
     "healthy": -1,
     "addiction_potential": 5,
-    "calories": 126,
+    "calories": 100,
     "description": "Coke with a hint of ginger!",
     "price": 95,
     "price_postapoc": 50,
@@ -205,7 +205,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 3
   },
   {
     "type": "COMESTIBLE",
@@ -222,7 +222,7 @@
     "quench": 18,
     "healthy": -1,
     "addiction_potential": 5,
-    "calories": 126,
+    "calories": 120,
     "description": "Cinnamon coke for those with the christmas spirit!",
     "price": 95,
     "price_postapoc": 50,
@@ -245,10 +245,10 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 20,
     "healthy": -1,
-    "addiction_potential": 5,
-    "calories": 126,
+    "addiction_potential": 10,
+    "calories": 130,
     "description": "Due to popular demand coke mixed cherry and vanilla!",
     "price": 95,
     "price_postapoc": 50,
@@ -257,7 +257,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 10
   },
   {
     "type": "COMESTIBLE",
@@ -271,10 +271,10 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 25,
     "healthy": -1,
     "addiction_potential": 10,
-    "calories": 126,
+    "calories": 150,
     "description": "Coke with a powerful blast of white peach!",
     "price": 95,
     "price_postapoc": 50,
@@ -283,7 +283,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 10
   },
   {
     "type": "COMESTIBLE",
@@ -297,10 +297,10 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 30,
     "healthy": -1,
-    "addiction_potential": 5,
-    "calories": 126,
+    "addiction_potential": 10,
+    "calories": 145,
     "description": "A coke made from coke labs, this one apparently tastes like a byte of data!",
     "price": 95,
     "price_postapoc": 50,
@@ -309,7 +309,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 10
   },
   {
     "type": "COMESTIBLE",
@@ -325,8 +325,8 @@
     "symbol": "~",
     "quench": 18,
     "healthy": -1,
-    "addiction_potential": 5,
-    "calories": 126,
+    "addiction_potential": 10,
+    "calories": 150,
     "description": "A coke that tastes like cotton candy fields and dreams!",
     "price": 95,
     "price_postapoc": 50,
@@ -335,7 +335,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 10
   },
   {
     "type": "COMESTIBLE",
@@ -349,10 +349,10 @@
     "container": "can_drink",
     "comestible_type": "DRINK",
     "symbol": "~",
-    "quench": 18,
+    "quench": 20,
     "healthy": -1,
-    "addiction_potential": 5,
-    "calories": 126,
+    "addiction_potential": 10,
+    "calories": 130,
     "description": "Starlight coke! Tastes like space!",
     "price": 95,
     "price_postapoc": 50,
@@ -361,7 +361,7 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 10
   },
   {
     "type": "COMESTIBLE",
@@ -377,8 +377,8 @@
     "symbol": "~",
     "quench": 18,
     "healthy": -1,
-    "addiction_potential": 3,
-    "calories": 126,
+    "addiction_potential": 20,
+    "calories": 145,
     "description": "An extremely rare version of coke made in collaboration with a video game company.",
     "price": 95,
     "price_postapoc": 50,
@@ -387,6 +387,6 @@
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
-    "fun": 5
+    "fun": 40
   },
 ]
