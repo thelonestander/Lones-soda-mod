@@ -362,5 +362,31 @@
     "phase": "liquid",
     "flags": [ "EATEN_COLD" ],
     "fun": 5
-  }
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "nukacola",
+    "name": "Nuka Cola",
+    "weight": "247 g",
+    "color": "light_gray",
+    "addiction_type": "caffeine",
+    "fatigue_mod": 12,
+    "stim": 4,
+    "container": "can_drink",
+    "comestible_type": "DRINK",
+    "symbol": "~",
+    "quench": 18,
+    "healthy": -1,
+    "addiction_potential": 3,
+    "calories": 126,
+    "description": "An extremely rare version of coke made in collaboration with a video game company.",
+    "price": 95,
+    "price_postapoc": 50,
+    "material": "junk",
+    "primary_material": "water",
+    "volume": "250 ml",
+    "phase": "liquid",
+    "flags": [ "EATEN_COLD" ],
+    "fun": 5
+  },
 ]
