@@ -1,0 +1,23 @@
+[
+  {
+    "id": "softdrinks_canned",
+    "type": "item_group",
+	"subtype": "distribution",
+    "items": [
+      [ "cocacolacherry", 30 ],
+      [ "goldencocacola", 30 ],
+      [ "cocacolalemon", 30 ],
+      [ "cocacolavanilla", 30 ],
+      [ "cocacolalime", 30 ],
+      [ "cocacolaraspberry", 30 ],
+      [ "cocacolaorange", 30 ],
+      [ "cocacolaginger", 30 ],
+      [ "cocacolacinnamon", 30 ],
+      [ "cocacolacherryvanilla", 30 ],
+      [ "cocacolapeach", 30 ],
+      [ "cocacolabyte", 30 ],
+      [ "cocacoladreamworld", 30 ],
+      [ "cocacolastarlight", 30 ]
+    ]
+  }
+]

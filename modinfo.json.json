@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "coke_flavors",
+    "name": "Coke mod",
+    "authors": [ "thelonestander" ],
+    "description": "A mod that adds many new flavors of coke to find",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
+
