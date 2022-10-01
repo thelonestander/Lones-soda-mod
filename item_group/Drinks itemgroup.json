@@ -24,7 +24,15 @@
       [ "drpepperberriesandcream", 30 ],
       [ "drpepperchocolate", 30 ],
       [ "drpeppervanillafloat", 30 ],
-      [ "drpepperdarkberry", 30 ]
+      [ "drpepperdarkberry", 30 ],
+	  [ "sprite", 30 ],
+      [ "spriteice", 30 ],
+      [ "spriteremixtropical", 30 ],
+      [ "spriteremixberry", 30 ],
+      [ "spritecranberry", 30 ],
+      [ "spriteblast", 30 ],
+      [ "spritecucumber", 30 ],
+	  [ "spritelymonade", 30 ]
     ]
   }
 ]
