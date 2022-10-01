@@ -32,7 +32,10 @@
       [ "spritecranberry", 30 ],
       [ "spriteblast", 30 ],
       [ "spritecucumber", 30 ],
-	  [ "spritelymonade", 30 ]
+	  [ "spritelymonade", 30 ],
+	  [ "yohoo", 30 ],
+      [ "yohoostrawberry", 30 ],
+	  [ "yohoodoublefudge", 5 ]
     ]
   }
 ]
