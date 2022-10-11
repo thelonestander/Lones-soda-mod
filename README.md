@@ -1,4 +1,10 @@
 # Lones-coke-mod
- Adds many types of Coke flavors to the game, this is manily and additional mod to compliment the Mtn Dew mod. 
- Now includes Dr.Pepper!
+ 
+ Adds many types of Soda to the game I currently have
+ 
+ Sprite
+ Coke
+ Yohoo
+ Dr.Pepper
 
+Meant to be used with https://github.com/goldendragon900/cdda-bn-mountain-dew mod as its in the same vein as my mod. 
