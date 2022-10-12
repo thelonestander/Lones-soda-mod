@@ -35,7 +35,10 @@
 	  [ "spritelymonade", 30 ],
 	  [ "yohoo", 30 ],
       [ "yohoostrawberry", 30 ],
-	  [ "yohoodoublefudge", 5 ]
+	  [ "yohoodoublefudge", 5 ],
+	  [ "barqsrootbeer", 30 ],
+      [ "barqsredcream", 30 ],
+	  [ "barqsvanilla", 5 ]
     ]
   }
 ]
