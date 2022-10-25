@@ -2,7 +2,7 @@
   {
     "type": "MOD_INFO",
     "id": "coke_flavors",
-    "name": "<color_cyan>Lones Soda mod",
+    "name": "<color_cyan>Lones Soda mod</color>",
     "authors": [ "thelonestander" ],
     "description": "A mod that adds many new flavors of coke to find",
     "category": "items",
