@@ -6,7 +6,7 @@
     "authors": [ "thelonestander" ],
     "description": "A mod that adds many new flavors of coke to find",
     "category": "items",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "bn" ]
   }
 ]
 
