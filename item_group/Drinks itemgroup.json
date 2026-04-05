@@ -1,5 +1,4 @@
 [
-  [
   {
     "id": "softdrinks_canned",
     "type": "item_group",
@@ -59,7 +58,7 @@
       [ "mug_rootbeer_diet", 30 ],
       [ "mug_creamsoda", 30 ],
       [ "mug_vanilla", 30 ],
-      [ "mug_cherry", 30 ]
+      [ "mug_cherry", 30 ],
       [ "pepsi", 30 ],
       [ "pepsi_diet", 30 ],
       [ "pepsi_zero", 30 ],
@@ -87,5 +86,4 @@
       [ "mtndew_pitchblack", 30 ]
     ]
   }
-]
 ]
