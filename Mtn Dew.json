@@ -134,7 +134,7 @@
   "id": "mtndew_livewire",
   "name": "Mountain Dew LiveWire",
   "weight": "247 g",
-  "color": "orange",
+  "color": "red",
   "addiction_type": "caffeine",
   "fatigue_mod": 14,
   "stim": 6,
