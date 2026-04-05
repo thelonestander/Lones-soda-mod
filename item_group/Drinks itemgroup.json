@@ -1,4 +1,5 @@
 [
+  [
   {
     "id": "softdrinks_canned",
     "type": "item_group",
@@ -47,13 +48,44 @@
       [ "gatorlime", 30 ],
       [ "gatorblue", 30 ],
       [ "gatordarkblue", 30 ],
-	  [ "fanta", 30 ],
-	  [ "fantapineapple", 30 ],
-	  [ "Fantastrawberry", 30 ],
-	  [ "Fantagrape", 30 ],
-	  [ "Fantapeach", 30 ],
-	  [ "Fantapinacolada", 30 ],
-	  [ "Fantaberry", 30 ]
+      [ "fanta", 30 ],
+      [ "fantapineapple", 30 ],
+      [ "Fantastrawberry", 30 ],
+      [ "Fantagrape", 30 ],
+      [ "Fantapeach", 30 ],
+      [ "Fantapinacolada", 30 ],
+      [ "Fantaberry", 30 ],
+      [ "mug_rootbeer", 30 ],
+      [ "mug_rootbeer_diet", 30 ],
+      [ "mug_creamsoda", 30 ],
+      [ "mug_vanilla", 30 ],
+      [ "mug_cherry", 30 ]
+      [ "pepsi", 30 ],
+      [ "pepsi_diet", 30 ],
+      [ "pepsi_zero", 30 ],
+      [ "pepsi_cherry", 30 ],
+      [ "pepsi_vanilla", 30 ],
+      [ "pepsi_mango", 30 ],
+      [ "pepsi_crystal", 30 ],
+      [ "pepsi_blue", 30 ],
+      [ "pepsi_lime", 30 ],
+      [ "sevenup", 30 ],
+      [ "sevenup_diet", 30 ],
+      [ "sevenup_cherry", 30 ],
+      [ "sevenup_tropical", 30 ],
+      [ "sevenup_zero", 30 ],
+      [ "sevenup_mojito", 30 ],
+      [ "sevenup_gold", 30 ],
+      [ "mtndew", 30 ],
+      [ "mtndew_diet", 30 ],
+      [ "mtndew_zero", 30 ],
+      [ "mtndew_codered", 30 ],
+      [ "mtndew_voltage", 30 ],
+      [ "mtndew_livewire", 30 ],
+      [ "mtndew_melon", 30 ],
+      [ "mtndew_baja", 30 ],
+      [ "mtndew_pitchblack", 30 ]
     ]
   }
+]
 ]
