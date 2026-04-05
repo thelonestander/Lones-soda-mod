@@ -46,7 +46,14 @@
       [ "gatororange", 30 ],
       [ "gatorlime", 30 ],
       [ "gatorblue", 30 ],
-      [ "gatordarkblue", 30 ]
+      [ "gatordarkblue", 30 ],
+	  [ "fanta", 30 ],
+	  [ "fantapineapple", 30 ],
+	  [ "Fantastrawberry", 30 ],
+	  [ "Fantagrape", 30 ],
+	  [ "Fantapeach", 30 ],
+	  [ "Fantapinacolada", 30 ],
+	  [ "Fantaberry", 30 ]
     ]
   }
 ]
