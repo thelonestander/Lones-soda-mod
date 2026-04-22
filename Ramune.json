@@ -220,7 +220,7 @@
     "id": "ramune_matcha",
     "name": "Ramune Matcha",
     "weight": "247 g",
-    "color": "dark_green",
+    "color": "green",
     "addiction_type": "caffeine",
     "fatigue_mod": 12,
     "stim": 4,
