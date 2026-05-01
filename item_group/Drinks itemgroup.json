@@ -100,7 +100,21 @@
     [ "ramune_raspberry", 30 ],
     [ "ramune_yogurt", 30 ],
     [ "ramune_bubblegum", 30 ],
-    [ "ramune_mango", 30 ]
+    [ "ramune_mango", 30 ],
+	[ "sierra_mist", 30 ],
+    [ "sierra_mist_diet", 30 ],
+    [ "sierra_mist_free", 30 ],
+    [ "sierra_mist_zero", 30 ],
+    [ "sierra_mist_natural", 30 ],
+    [ "sierra_mist_cranberry", 30 ],
+    [ "sierra_mist_cranberry_diet", 30 ],
+    [ "sierra_mist_lemon_squeeze", 30 ],
+    [ "sierra_mist_undercover_orange", 30 ],
+    [ "sierra_mist_undercover_orange_diet", 30 ],
+    [ "sierra_mist_ruby_splash", 30 ],
+    [ "sierra_mist_ruby_splash_diet", 30 ],
+    [ "sierra_mist_strawberry_kiwi", 30 ]
+
   ]
 }
 ]
