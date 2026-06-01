@@ -17,7 +17,7 @@
   "calories": 140,
   "description": "A crisp, refreshing lemon-lime soda with a clean taste.",
   "price": "95 USD",
-  "price_postapoc": 50,
+  "price_postapoc": "50 USD",
   "material": "junk",
   "primary_material": "water",
   "volume": "250 ml",
